@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5ce703ddf02f5049bafa76f2e84e243, type: 3}
+  m_Name: EnemyProfile
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyProfile
+  Name: 
+  AttackSpeed: 2
+  SlashCount: 1
+  RequiredSuccesses: 1
+  speed: 3
+  prefabEnemy: {fileID: 7908500367811722163, guid: c750bb6bbfce1c7479ffc654d494372c, type: 3}

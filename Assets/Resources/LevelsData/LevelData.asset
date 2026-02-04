@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94942b83ef5bd8f4caa7c3678e5326f0, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: Assembly-CSharp::LevelData
+  LevelID: 1
+  Waves:
+  - EnemyProfile: {fileID: 11400000, guid: c680e20b33ca9254e977c9f444d71fad, type: 2}
+    VocabList:
+    - {fileID: 11400000, guid: c67b90b35efd76f4cb408eeab0f28117, type: 2}
+    - {fileID: 11400000, guid: f82f7112e737eb840abe2ba8eab5ba09, type: 2}
+    - {fileID: 11400000, guid: 7be63feb453995445b315eca52b2080f, type: 2}
+  - EnemyProfile: {fileID: 11400000, guid: c680e20b33ca9254e977c9f444d71fad, type: 2}
+    VocabList:
+    - {fileID: 11400000, guid: 714a0ca22b70bf545bce5b11aeef8bda, type: 2}
+    - {fileID: 11400000, guid: afeaa3a82fd67154daa1af6c2b12bbe9, type: 2}
+  Mode: 0
